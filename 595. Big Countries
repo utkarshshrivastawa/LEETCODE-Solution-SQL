@@ -49,6 +49,7 @@ Output:
 
 
 ##Solution 
+CODE : 
 # Write your MySQL query statement below
 select name, population ,area 
 from 
